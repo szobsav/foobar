@@ -15,7 +15,6 @@
             return false;
         }
 
-        console.log("\tloaded: yes");
         return true;
     }
 
